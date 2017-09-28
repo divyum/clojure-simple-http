@@ -6,5 +6,4 @@
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [http-kit "2.2.0"]]
-  :main clojure-simple-http.core
-  :profiles {:uberjar {:aot :all}})
+  :main clojure-simple-http.core)
