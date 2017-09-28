@@ -1,14 +1,11 @@
 # clojure-simple-http
 
-A Clojure library designed to ... well, that part is up to you.
+A simple HTTP server in Clojure
 
 ## Usage
 
-FIXME
-
-## License
-
-Copyright © 2017 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+  1. Clone repo `git clone https://github.com/divyum/clojure-simple-http`
+  2. `cd clojure-simple-http`
+  3. Build jar - `lein userjar`
+  4. Run server - `java -jar target/clojure-simple-http-0.1.0-SNAPSHOT-standalone.jar`
+  5. Goto [localhost:8080](localhost:8080)
